@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Bausteine computergestützter Datenanalyse"
+  subtitle: "Dokumentation"
+  author:
+  - name: Lukas Arnold
+  - name: Simone Arnold
+  - name: Florian Bagemihl 
+  - name: Matthias Baitsch 
+  - name: Marc Fehr
+  - name: Maik Poetzsch
+  - name: Sebastian Seipel
+  chapters: 
+    - index.qmd
+    - organisation.qmd
+    - anwendungsfaelle.qmd
+    - bausteine.qmd
+
+lang: de
+
+format:
+  html: default

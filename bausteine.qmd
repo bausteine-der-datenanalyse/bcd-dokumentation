@@ -1,0 +1,38 @@
+# Bausteine
+
+Wir verstehen unter einem Baustein eine Sammlung von Unterlagen mit denen sich Lernende Kenntnisse, Fertigkeiten oder Kompetenzen aneignen können. In der Regel sollte ein Baustein in rund 5 bis 10 Zeitstunden zu bearbeiten sein. Dabei wird unterschieden zwischen
+
+- Methodenbausteinen (Kenntnisse)
+
+- Werkzeugbausteinen (Fertigkeiten)
+
+- Anwendungsbausteinen (Kompetenzen)
+
+Bausteine können thematisch zu Gruppen zusammengefasst sein.
+
+Zu den Unterlagen gehören
+
+- notwendige Voraussetzungen,
+
+- verfolgte Lernziele,
+
+- Unterlagen (Abschnitt für Skript, Tutorial, Erklärvideos),
+
+- Aufgaben mit Musterlösungen und geschätztem Zeitbedarf.
+
+## Methodenbausteine Grundlagen der beschreibenden Statistik
+
+TODO
+
+## Werkzeugbausteine Python
+
+TODO
+
+## Werkzeugbausteine R
+
+TODO
+
+## Anwendungsbaustein "Analyse von Unfallrisiken"
+
+TODO
+

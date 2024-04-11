@@ -1,0 +1,87 @@
+# Organisation der Repositories auf Github
+
+```md
+bsteine-der-datenanalyse
+├── bcd-bausteine-statistik
+│   ├── m-beschreibung-von-verteilungen
+│   │   ├── aufgaben
+│   │   │   ├── 00-bilder
+│   │   │   │   └── ...
+│   │   │   ├── 01-daten
+│   │   │   │   └── ...
+│   │   │   ├── mittelwert.qmd
+│   │   │   ├── quantile.qmd
+│   │   │   └── ...
+│   │   ├── skript
+│   │   │   ├── 00-bilder
+│   │   │   │   └── ...
+│   │   │   ├── 01-daten
+│   │   │   │   └── ...
+│   │   │   └── skript.qmd
+│   │   ├── lernziele.md
+│   │   ├── README.md
+│   │   └── voraussetzungen.md
+│   ├── m-einzelne-merkmale
+│   │   └── ...
+│   └── ...
+├── bcd-bausteine-python
+│   ├── w-grundlagen-datenverbeitung
+│   │   └── ...
+│   └── ...
+├── bcd-bausteine-r
+│   ├── w-grundlagen-ggplot2
+│   │   └── ...
+│   ├── w-daten-einlesen
+│   │   └── ...
+│   ├── w-daten-aufbereiten
+│   │   └── ...
+│   └── ...
+├── bcd-dokumentation
+│   └── ...
+├── bcd-styleguide
+│   └── ...
+├── bcd-alles                         (Zusammenstellung aller Inhalte)
+│   ├── .github
+│   │   └── ...
+│   └── ...
+├── bcd-modul-bo-mathematik-b         (Zusammenstellung Inhalte für ein Modul)
+│   ├── .github
+│   │   └── ...
+│   ├── bausteine 
+│   │   ├── bcd-bausteine-statistik   (als Git-Submodul)
+│   │   └── ...
+│   ├── aufgaben
+│   │   ├── blatt-01
+│   │   │   └── _quarto.yml
+│   │   ├── blatt-02
+│   │   │   └── _quarto.yml
+│   │   └── ...
+│   ├── skript
+│   │   └── _quarto.yml
+│   └── ...    
+└── ...    
+```
+
+**Anmerkungen**
+
+- Organisationsaccount `bausteine-der-datenanalyse` auf Github
+
+- Einzelne Repositories für Bestandteile von BCD
+
+- Zentrale Repositories: `bcd-bausteine-xxx`
+
+  - Beinhalten thematisch gruppierte Bausteine
+
+  - Alle Bausteine mit Verzeichnissen für Skript, Aufgaben etc.
+
+- Materialien für ein bestimmtes Modul in Zusammenstellung `bcc-modul-xxx`
+
+Namenskonventionen für Files und Verzeichnisse
+
+- Alles klein geschrieben (ausser README.md u.s.w.)
+
+- Keine Leerzeichen und Umlaute
+
+- Vorangestellte Ziffern für Sortierung bei Bedarf
+
+- Bindestrich zur Abtrennung
