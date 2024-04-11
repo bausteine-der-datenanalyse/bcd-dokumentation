@@ -1,0 +1,92 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bausteine computergestützter Datenanalyse",
+    "section": "",
+    "text": "1 Einleitung\nTODO",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Einleitung</span>"
+    ]
+  },
+  {
+    "objectID": "organisation.html",
+    "href": "organisation.html",
+    "title": "2  Organisation der Repositories auf Github",
+    "section": "",
+    "text": "bsteine-der-datenanalyse\n├── bcd-bausteine-statistik\n│   ├── m-beschreibung-von-verteilungen\n│   │   ├── aufgaben\n│   │   │   ├── 00-bilder\n│   │   │   │   └── ...\n│   │   │   ├── 01-daten\n│   │   │   │   └── ...\n│   │   │   ├── mittelwert.qmd\n│   │   │   ├── quantile.qmd\n│   │   │   └── ...\n│   │   ├── skript\n│   │   │   ├── 00-bilder\n│   │   │   │   └── ...\n│   │   │   ├── 01-daten\n│   │   │   │   └── ...\n│   │   │   └── skript.qmd\n│   │   ├── lernziele.md\n│   │   ├── README.md\n│   │   └── voraussetzungen.md\n│   ├── m-einzelne-merkmale\n│   │   └── ...\n│   └── ...\n├── bcd-bausteine-python\n│   ├── w-grundlagen-datenverbeitung\n│   │   └── ...\n│   └── ...\n├── bcd-bausteine-r\n│   ├── w-grundlagen-ggplot2\n│   │   └── ...\n│   ├── w-daten-einlesen\n│   │   └── ...\n│   ├── w-daten-aufbereiten\n│   │   └── ...\n│   └── ...\n├── bcd-dokumentation\n│   └── ...\n├── bcd-styleguide\n│   └── ...\n├── bcd-alles                         (Zusammenstellung aller Inhalte)\n│   ├── .github\n│   │   └── ...\n│   └── ...\n├── bcd-modul-bo-mathematik-b         (Zusammenstellung Inhalte für ein Modul)\n│   ├── .github\n│   │   └── ...\n│   ├── bausteine \n│   │   ├── bcd-bausteine-statistik   (als Git-Submodul)\n│   │   └── ...\n│   ├── aufgaben\n│   │   ├── blatt-01\n│   │   │   └── _quarto.yml\n│   │   ├── blatt-02\n│   │   │   └── _quarto.yml\n│   │   └── ...\n│   ├── skript\n│   │   └── _quarto.yml\n│   └── ...    \n└── ...    \nAnmerkungen\n\nOrganisationsaccount bausteine-der-datenanalyse auf Github\nEinzelne Repositories für Bestandteile von BCD\nZentrale Repositories: bcd-bausteine-xxx\n\nBeinhalten thematisch gruppierte Bausteine\nAlle Bausteine mit Verzeichnissen für Skript, Aufgaben etc.\n\nMaterialien für ein bestimmtes Modul in Zusammenstellung bcc-modul-xxx\n\nNamenskonventionen für Files und Verzeichnisse\n\nAlles klein geschrieben (ausser README.md u.s.w.)\nKeine Leerzeichen und Umlaute\nVorangestellte Ziffern für Sortierung bei Bedarf\nBindestrich zur Abtrennung",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Organisation der Repositories auf Github</span>"
+    ]
+  },
+  {
+    "objectID": "anwendungsfaelle.html",
+    "href": "anwendungsfaelle.html",
+    "title": "3  Anwendungsfälle",
+    "section": "",
+    "text": "3.1 Potentielle Erstnutzer:in\nPotentielle Erstnutzer:innen können sich auf einer Webseite einen schnellen Überblick zu vorhandenen Materialien zu verschaffen und diese detailliert sichten.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Anwendungsfälle</span>"
+    ]
+  },
+  {
+    "objectID": "anwendungsfaelle.html#erstnutzerinnen",
+    "href": "anwendungsfaelle.html#erstnutzerinnen",
+    "title": "3  Anwendungsfälle",
+    "section": "3.2 Erstnutzer:innen",
+    "text": "3.2 Erstnutzer:innen\nErstnutzer:innen haben die Möglichkeit Bausteine auszuwählen und in einer für sie sinnvollen Art und Weise zusammenzufügen und falls notwendig zu ergänzen.\nTemplate für eigenes Projekt.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Anwendungsfälle</span>"
+    ]
+  },
+  {
+    "objectID": "anwendungsfaelle.html#mathematik-b-master-hs-bochum",
+    "href": "anwendungsfaelle.html#mathematik-b-master-hs-bochum",
+    "title": "3  Anwendungsfälle",
+    "section": "3.3 Mathematik B (Master) HS Bochum",
+    "text": "3.3 Mathematik B (Master) HS Bochum\nDer Kurs Mathematik B in den Masterstudiengängen Bauingenieurwesen und Umweltingenieurwesen behandelt Grundlagen der Statistik und die Anwendung von R zur Aufbereitung und Analyse von Datensätzen. Das Modul wird mit einer Studienarbeit abgeschlossen, die Aufgabenstellungen kommen dabei aus den Bereichen Verkehrswesen, Wasserwesen und dem konstruktiven Ingenieurbau.\nFür den Kurs sind folgende Unterlagen notwendig:\n\nMathematische Grundlagen\n\nSkript als PDF und ggf. online als HTML-Dokument\nErklärvideos\nÜbungsaufgaben\nMusterlösungen zu Übungsaufgaben\n\nArbeiten mit R (dplyr und ggplot2)\n\nSkript und Tutorials online und ggf. als PDF - Dokument\nErklärvideos\nÜbungsaufgaben\nMusterlösungen zu Übungsaufgaben\n\nStudienarbeiten\n\nAufgabenstellungen\nErgänzende Informationen zu Aufgaben\n\n\nZu Beginn des Semesters\n\nAuswahl der Inhalte für die Veranstaltung (falls Anpassung notwendig)\nVerlinkung der Dokumente von Moodle (wie oben)\n\nIdealerweise werden alle Dokumente auf Github automatisch aktualisiert und es ist keinerlei Handarbeit notwendig, falls Unterlagen angepasst werden müssen (was immer wieder vorkommt, auch im laufenden Semester).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Anwendungsfälle</span>"
+    ]
+  },
+  {
+    "objectID": "bausteine.html",
+    "href": "bausteine.html",
+    "title": "4  Bausteine",
+    "section": "",
+    "text": "4.1 Methodenbausteine Grundlagen der beschreibenden Statistik\nTODO",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bausteine</span>"
+    ]
+  },
+  {
+    "objectID": "bausteine.html#werkzeugbausteine-python",
+    "href": "bausteine.html#werkzeugbausteine-python",
+    "title": "4  Bausteine",
+    "section": "4.2 Werkzeugbausteine Python",
+    "text": "4.2 Werkzeugbausteine Python\nTODO",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bausteine</span>"
+    ]
+  },
+  {
+    "objectID": "bausteine.html#werkzeugbausteine-r",
+    "href": "bausteine.html#werkzeugbausteine-r",
+    "title": "4  Bausteine",
+    "section": "4.3 Werkzeugbausteine R",
+    "text": "4.3 Werkzeugbausteine R\nTODO",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bausteine</span>"
+    ]
+  },
+  {
+    "objectID": "bausteine.html#anwendungsbaustein-analyse-von-unfallrisiken",
+    "href": "bausteine.html#anwendungsbaustein-analyse-von-unfallrisiken",
+    "title": "4  Bausteine",
+    "section": "4.4 Anwendungsbaustein “Analyse von Unfallrisiken”",
+    "text": "4.4 Anwendungsbaustein “Analyse von Unfallrisiken”\nTODO",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bausteine</span>"
+    ]
+  }
+]
